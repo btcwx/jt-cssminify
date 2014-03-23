@@ -1,0 +1,36 @@
+{
+  "name": "jt-cssminify",
+  "version": "0.0.1",
+  "description": "css minify for jt-cli",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make"
+  },
+  "keywords": [
+    "css",
+    "minify",
+    "jt-cssminify"
+  ],
+  "config": {
+    "blanket": {
+      "pattern": "jt-cssminify/lib"
+    }
+  },
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyicwx/jt-cssminify.git"
+  },
+  "license": "MIT"
+}
