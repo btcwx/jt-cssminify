@@ -1,1 +1,1 @@
-module.exports = require('lib/minify.js');
+module.exports = require('./lib/minify.js');
